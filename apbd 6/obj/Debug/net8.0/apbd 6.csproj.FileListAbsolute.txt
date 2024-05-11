@@ -1,0 +1,33 @@
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\appsettings.json
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\apbd 6.exe
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\apbd 6.deps.json
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\apbd 6.runtimeconfig.json
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\apbd 6.dll
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\apbd 6.pdb
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.csproj.AssemblyReference.cache
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.AssemblyInfoInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.AssemblyInfo.cs
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\staticwebassets\msbuild.apbd 6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\staticwebassets\msbuild.build.apbd 6.props
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apbd 6.props
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apbd 6.props
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\scopedcss\bundle\apbd 6.styles.css
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.csproj.Up2Date
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.dll
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\refint\apbd 6.dll
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.pdb
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\apbd 6.genruntimeconfig.cache
+C:\Users\kacpe\OneDrive\Pulpit\apbd 6\apbd 6\obj\Debug\net8.0\ref\apbd 6.dll

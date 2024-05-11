@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\apbd 6.props" />
+</Project>
