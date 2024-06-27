@@ -22,4 +22,24 @@ public class WarehousesController : ControllerBase
         int result = await _warehousesService.AddProduct(product);
         return Ok();
     }
+
+    [HttpPost("{productWarehouse}")]
+    public async Task<ActionResult<int>> AddProductWithProcedure(ProductWarehouse productWarehouse)
+    {
+        try
+        {
+            int prod = await _warehousesService.AddProductWithProcedure(productWarehouse);
+
+            if (prod == 0)
+            {
+                return BadRequest("Failed to add");
+            }
+
+            return Ok(prod);
+        }
+        catch (Exception e)
+        {
+            return StatusCode(StatusCodes.Status500InternalServerError, e.Message);
+        }
+    }
 }
